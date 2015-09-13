@@ -1,0 +1,5 @@
+D:\Study\Git\Taxi\Model\bin\Debug\Model.dll
+D:\Study\Git\Taxi\Model\bin\Debug\Model.pdb
+D:\Study\Git\Taxi\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Study\Git\Taxi\Model\obj\Debug\Model.dll
+D:\Study\Git\Taxi\Model\obj\Debug\Model.pdb

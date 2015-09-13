@@ -1,0 +1,5 @@
+D:\Study\Git\Taxi\BAL\bin\Debug\BAL.dll
+D:\Study\Git\Taxi\BAL\bin\Debug\BAL.pdb
+D:\Study\Git\Taxi\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\Study\Git\Taxi\BAL\obj\Debug\BAL.dll
+D:\Study\Git\Taxi\BAL\obj\Debug\BAL.pdb
